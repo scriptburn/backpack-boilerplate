@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "scriptburn/backpack-boilerplate",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "The Laravel backpack boilerplate.",
     "keywords": [
         "framework",
         "laravel"
